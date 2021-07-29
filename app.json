@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "GOT Risk Helper",
+    "slug": "gotriskhelper",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.harbsoft.gotriskhelper",
+      "buildNumber": "1.1.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.harbsoft.gotriskhelper",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
